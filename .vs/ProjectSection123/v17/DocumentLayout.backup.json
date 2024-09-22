@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|c:\\users\\maria\\onedrive\\desktop\\maria_universidad\\2nd term\\oop\\project\\projectsection123 (2)\\projectsection123\\projectsection123\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|solutionrelative:projectsection123\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|c:\\users\\maria\\onedrive\\desktop\\maria_universidad\\2nd term\\oop\\project\\projectsection123 (2)\\projectsection123\\projectsection123\\ipvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|solutionrelative:projectsection123\\ipvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\projectsection123\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|solutionrelative:projectsection123\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\projectsection123\\ipvalidatorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|solutionrelative:projectsection123\\ipvalidatorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\projectsection123\\ipvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|solutionrelative:projectsection123\\ipvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\projectsection123\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7534734D-8EAF-4FF1-A450-BC5D29D51E1B}|ProjectSection123\\ProjectSection123.csproj|solutionrelative:projectsection123\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1294007299:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1387419606:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectSection123\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\Program.cs",
+              "RelativeToolTip": "ProjectSection123\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAlwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:08:56.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPValidatorBase.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\IPValidatorBase.cs",
+              "RelativeDocumentMoniker": "ProjectSection123\\IPValidatorBase.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\IPValidatorBase.cs",
+              "RelativeToolTip": "ProjectSection123\\IPValidatorBase.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwDoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-22T03:07:34.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPValidator.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\IPValidator.cs",
+              "RelativeDocumentMoniker": "ProjectSection123\\IPValidator.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\IPValidator.cs",
+              "RelativeToolTip": "ProjectSection123\\IPValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:07:34.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "temperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\temperatureConverter.cs",
+              "RelativeDocumentMoniker": "ProjectSection123\\temperatureConverter.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\temperatureConverter.cs",
+              "RelativeToolTip": "ProjectSection123\\temperatureConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-22T03:07:34.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "temperatureConverter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\temperatureConverter.cs",
+              "RelativeDocumentMoniker": "ProjectSection123\\temperatureConverter.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\temperatureConverter.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Maria Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\temperatureConverter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-22T03:07:34.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPValidator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria_Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\IPValidator.cs",
+              "RelativeDocumentMoniker": "ProjectSection123\\IPValidator.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\Maria Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\IPValidator.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Maria Universidad\\2nd Term\\OOP\\Project\\ProjectSection123 (2)\\ProjectSection123\\ProjectSection123\\IPValidator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-22T03:07:34.712Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
